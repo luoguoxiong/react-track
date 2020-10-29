@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Peroluo/react-track#readme",
   "devDependencies": {
     "react": "^17.0.1",
-    "rollup": "^2.32.1",
+    "rollup": "^2.32.1"
   }
 }
